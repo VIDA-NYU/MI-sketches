@@ -1,0 +1,4 @@
+/experiments/.ipynb_checkpoints/
+/experiments/geckodriver.log
+*.pyc
+**/.DS_Store
